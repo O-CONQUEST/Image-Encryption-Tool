@@ -37,6 +37,6 @@ DecryptedPixel = (EncryptedPixel - key) % 256
     python -m pip install pillow numpy
 
 3. Run the program
-   python image_encryption.py
+   python image_encryptor.py
 
    
