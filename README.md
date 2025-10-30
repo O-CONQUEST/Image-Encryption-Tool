@@ -31,7 +31,7 @@ DecryptedPixel = (EncryptedPixel - key) % 256
 
 ## 🏃‍♂️ How to Run
 1. Clone this repository:
-   git clone https://github.com/yourusername/Image-Encryption-Tool.git
+   git clone https://github.com/O-CONQUEST/Image-Encryption-Tool.git
 
 2. Install dependencies:
     python -m pip install pillow numpy
